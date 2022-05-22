@@ -2,5 +2,5 @@
 layout: slide
 title: "welcome to our second slide!"
 ---
-Wa
+"Is your refridgerator running?"
 use the left arrow to go back
